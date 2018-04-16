@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu');
+
+.navbar-brand, h1, h2, h3, h4{
+	font-family: 'Open Sans', sans-serif;
+}
+h5{
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 18px;
+}
+body{
+	font-family: 'Ubuntu', sans-serif;
+	
+}
