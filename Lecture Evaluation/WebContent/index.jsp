@@ -82,7 +82,7 @@
 		<div class="card bg-light mt-3">
 			<div class="card-header bg-light">
 				<div class="row">
-					<div class="col-8 text-left">Linux&nbsp;<small>John</small></div>
+					<div class="col-8 text-left">Linux admin&nbsp;<small>John</small></div>
 					<div class="col-4 text-right">
 						Total<span style="color: red;">F</span>
 					</div>
